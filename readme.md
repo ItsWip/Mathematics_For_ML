@@ -21,7 +21,7 @@ This repository contains my coursework and assignments for the **Mathematics of 
 ## How to Use This Repository
 1. Clone the repository:
    ```sh
-   git clone <repository-link>
+   git clone https://github.com/ItsWip/Mathematics_For_ML/tree/main
    cd Mathematics_of_Machine_Learning
    ```
 2. Install dependencies:
